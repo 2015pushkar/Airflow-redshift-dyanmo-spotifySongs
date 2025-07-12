@@ -7,8 +7,9 @@ This project implements a data pipeline to process Spotify-like streaming data u
 ## 🖼️ Visuals
 
 ```markdown
-![Airflow DAG](images/airflow-dag.png)
-![System Architecture](images/system-architecture.png)
+
+![System Architecture](images/AWS_Ecosystem-Batch Ingestion and Orchestration.drawio.png)
+
 ```
 
 ---
@@ -30,6 +31,7 @@ This project implements a data pipeline to process Spotify-like streaming data u
 3. Deploy DAG to Airflow
 4. Configure S3 and Redshift connections in Airflow
 5. Run DAG to transform and load data
+![Airflow DAG](images/dag_workflow.png)
 
 ---
 
