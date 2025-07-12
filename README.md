@@ -4,7 +4,7 @@ This project implements a data pipeline to process Spotify-like streaming data u
 
 ---
 
-## 🖼️ Visuals
+## 🖼️ Workflow
 
 
 ![System Architecture](images/AWS_Ecosystem_Batch_Ingestion_and_Orchestration.png)
